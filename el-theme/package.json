@@ -1,0 +1,40 @@
+{
+  "contributes": {
+    "themes": [
+      {
+        "variant": "蓝色 EL",
+        "path": "./blue",
+        "id": "el-blue"
+      },
+      {
+        "variant": "绿色 EL",
+        "path": "./green",
+        "id": "el-green"
+      },
+      {
+        "variant": "橙色 EVA",
+        "path": "./orange",
+        "id": "el-orange"
+      },
+      {
+        "variant": "红色 EL",
+        "path": "./red",
+        "id": "el-red"
+      },
+      {
+        "variant": "紫色 EL",
+        "path": "./purple",
+        "id": "el-purple"
+      }
+    ]
+  },
+  "publisher": "el-theme",
+  "license": "CC-BY-4.0",
+  "displayName": "EL 电致发光主题",
+  "name": "el-theme",
+  "description": "EVA / 电致发光(EL) 风格 Aseprite 主题，含 蓝/绿/橙/红 四色变体",
+  "version": "0.2.0",
+  "categories": [
+    "Themes"
+  ]
+}
